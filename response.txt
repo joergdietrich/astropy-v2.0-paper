@@ -209,4 +209,4 @@ ________________________
 > A good reference is Vanderplas 2017 (https://arxiv.org/abs/1703.09824)
 > soon to appear in the ApJ Suppl.
 
-A short note directing the reader to Vanderplas (2007) was included.
+A short note directing the reader to Vanderplas (2018) was included.
